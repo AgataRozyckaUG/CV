@@ -1,0 +1,30 @@
+p {
+    color:purple;
+    font-family:'Lucida Sans';
+    font-style: italic:
+}
+
+h2 {
+    color:blue;
+}
+h3 { 
+    color:red;
+}
+
+p.red {
+    color:yellow;
+}
+
+div p {
+    font-family:'Arial';
+    color:black;
+}
+body {background-color:orchid;}
+
+#myDiv {
+    border-top: 10px rosybrown dotted;
+    border-bottom: 10px red dotted;
+    border-left: 10px red dotted;
+    border-right: 10px red dotted; 
+    padding: 10px;
+}
